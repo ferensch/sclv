@@ -1,12 +1,11 @@
 ID,CALL,CN,TYPE,HANDICAP,NAME
-06DDEBB5,D-2838,CY,ASW28,1.08,David Techmer
-#,#,ES,Discus,1.07,Zistler & Kossack ES
-#,#,CW,ASW24,1.07,Felix Fritzsche B
-#,#,CA,Discus,1.07,Mathilde Fontaine B
-#,#,CL,Discus,1.07,Tobias Beelitz B
-#,#,KJ,DG 1000T 20m,1.10,Achtzehnter & Sutor KA
-#,#,2D,Arcus,1.14,Sutor & Filipp DA
-#,#,33,fs33,1.09,Spitz & Everwin S
-#,#,21,AFH21,0.96,Lukas Nießen H
-#,#,CB,B12,1.06,Alex Hadzhiyski B
-#,#,31,fs31,0.99,Marx & Habermann S
+FLRDDAF1E,D-0108,ES,Discus,1.07,Zistler & Kossack ES
+FLRDDA97F,D-0542,CW,ASW24,1.07,Felix Fritzsche B
+FLRDDBCFA,D-5494,CA,Discus,1.07,Mathilde Fontaine B
+FLRDD9D37,D-0124,CL,Discus,1.07,Tobias Beelitz B
+FLRDDA434,D-KAKJ,KJ,DG 1000T 20m,1.10,Achtzehnter & Sutor KA
+FLRDDEF7F,D-0867,2D,Arcus,1.14,Sutor & Filipp DA
+FLRDDAEC8,D-9733,33,fs33,1.09,Spitz & Everwin S
+FLRDDA299,D-6268,21,AFH21,0.96,Lukas Nießen H
+FLRDDA6A1,D-7612,CB,B12,1.06,Alex Hadzhiyski B
+FLRDDAE41,D-1131,31,fs31,0.99,Marx & Habermann S
