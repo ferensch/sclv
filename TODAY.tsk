@@ -1,0 +1,32 @@
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="300" start_max_height_ref="MSL" start_max_height="1500" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
+	<Point type="Start">
+		<Waypoint altitude="84" comment="Segelflug" id="467" name="Kammermark">
+			<Location latitude="53.1953" longitude="12.1642"/>
+		</Waypoint>
+		<ObservationZone length="40000" type="Line"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="45" comment="BAHNHOF" id="1490" name="Bismark Bf">
+			<Location latitude="52.6645" longitude="11.5572"/>
+		</Waypoint>
+		<ObservationZone angle="90" radius="3000" type="SymmetricQuadrant"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="31" comment="B188XELBE" id="5550" name="Tangermuende B18">
+			<Location latitude="52.5495" longitude="11.9847"/>
+		</Waypoint>
+		<ObservationZone angle="90" radius="3000" type="SymmetricQuadrant"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="79" comment="A24YA19 B" id="6127" name="Wittstock A24YA1">
+			<Location latitude="53.135" longitude="12.4581"/>
+		</Waypoint>
+		<ObservationZone angle="90" radius="3000" type="SymmetricQuadrant"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="84" comment="Segelflug" id="467" name="Kammermark">
+			<Location latitude="53.1953" longitude="12.1642"/>
+		</Waypoint>
+		<ObservationZone radius="4000" type="Cylinder"/>
+	</Point>
+</Task>
