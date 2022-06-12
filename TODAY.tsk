@@ -9,19 +9,19 @@
 		<Waypoint altitude="45" comment="BAHNHOF" id="1490" name="Bismark Bf">
 			<Location latitude="52.6645" longitude="11.5572"/>
 		</Waypoint>
-		<ObservationZone angle="90" radius="3000" type="SymmetricQuadrant"/>
+		<ObservationZone angle="90" radius="3000" type="Keyhole"/>
 	</Point>
 	<Point type="Turn">
 		<Waypoint altitude="31" comment="B188XELBE" id="5550" name="Tangermuende B18">
 			<Location latitude="52.5495" longitude="11.9847"/>
 		</Waypoint>
-		<ObservationZone angle="90" radius="3000" type="SymmetricQuadrant"/>
+		<ObservationZone angle="90" radius="3000" type="Keyhole"/>
 	</Point>
 	<Point type="Turn">
 		<Waypoint altitude="79" comment="A24YA19 B" id="6127" name="Wittstock A24YA1">
 			<Location latitude="53.135" longitude="12.4581"/>
 		</Waypoint>
-		<ObservationZone angle="90" radius="3000" type="SymmetricQuadrant"/>
+		<ObservationZone angle="90" radius="3000" type="Keyhole"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="84" comment="Segelflug" id="467" name="Kammermark">
