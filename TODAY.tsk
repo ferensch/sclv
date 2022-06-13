@@ -6,8 +6,8 @@
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="12" comment="ELBEY EL" id="1945" name="Doemitz Elbe Y E">
-			<Location latitude="53.1358" longitude="11.2497"/>
+		<Waypoint altitude="66" comment="BAHNHOF" id="4706" name="Plau Bf">
+			<Location latitude="53.4603" longitude="12.2561"/>
 		</Waypoint>
 		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
@@ -18,8 +18,8 @@
 		<ObservationZone radius="5000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="66" comment="BAHNHOF" id="4706" name="Plau Bf">
-			<Location latitude="53.4603" longitude="12.2561"/>
+		<Waypoint altitude="12" comment="ELBEY EL" id="1945" name="Doemitz Elbe Y E">
+			<Location latitude="53.1358" longitude="11.2497"/>
 		</Waypoint>
 		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
