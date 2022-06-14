@@ -17,12 +17,6 @@
 		</Waypoint>
 		<ObservationZone radius="5000" type="Cylinder"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="40" comment="" id="6388" name="Fleetmark Bf">
-			<Location latitude="52.7906" longitude="11.3792"/>
-		</Waypoint>
-		<ObservationZone radius="20000" type="Cylinder"/>
-	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="83" comment="" id="6496" name="Kammermark">
 			<Location latitude="53.1953" longitude="12.1642"/>
