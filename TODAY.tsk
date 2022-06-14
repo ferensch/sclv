@@ -1,32 +1,32 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="300" start_max_height_ref="MSL" start_max_height="1500" start_max_speed="0" start_score_exit="1" start_requires_arm="1" aat_min_time="7200" type="AAT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="1" aat_min_time="10800" type="AAT">
 	<Point type="Start">
-		<Waypoint altitude="84" comment="Segelflug" id="467" name="Kammermark">
+		<Waypoint altitude="83" comment="" id="6496" name="Kammermark">
 			<Location latitude="53.1953" longitude="12.1642"/>
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="66" comment="BAHNHOF" id="4706" name="Plau Bf">
-			<Location latitude="53.4603" longitude="12.2561"/>
+		<Waypoint altitude="44" comment="" id="6465" name="Havelberg Dom">
+			<Location latitude="52.8267" longitude="12.0783"/>
 		</Waypoint>
 		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="31" comment="Segelflug" id="708" name="Perleberg">
-			<Location latitude="53.0706" longitude="11.8181"/>
+		<Waypoint altitude="70" comment="" id="6476" name="Hoehbeck Tv 1358">
+			<Location latitude="53.0658" longitude="11.4422"/>
 		</Waypoint>
 		<ObservationZone radius="5000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="12" comment="ELBEY EL" id="1945" name="Doemitz Elbe Y E">
-			<Location latitude="53.1358" longitude="11.2497"/>
+		<Waypoint altitude="40" comment="" id="6388" name="Fleetmark Bf">
+			<Location latitude="52.7906" longitude="11.3792"/>
 		</Waypoint>
 		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
-		<Waypoint altitude="84" comment="Segelflug" id="467" name="Kammermark">
+		<Waypoint altitude="83" comment="" id="6496" name="Kammermark">
 			<Location latitude="53.1953" longitude="12.1642"/>
 		</Waypoint>
-		<ObservationZone radius="3000" type="Cylinder"/>
+		<ObservationZone radius="4000" type="Cylinder"/>
 	</Point>
 </Task>
