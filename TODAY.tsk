@@ -1,4 +1,4 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="1" aat_min_time="10800" type="AAT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="1" aat_min_time="14400" type="AAT">
 	<Point type="Start">
 		<Waypoint altitude="83" comment="" id="6496" name="Kammermark">
 			<Location latitude="53.1953" longitude="12.1642"/>
@@ -6,21 +6,27 @@
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="44" comment="" id="6465" name="Havelberg Dom">
-			<Location latitude="52.8267" longitude="12.0783"/>
+		<Waypoint altitude="42" comment="" id="6750" name="Stechow Ferches">
+			<Location latitude="52.6508" longitude="12.4881"/>
 		</Waypoint>
 		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="70" comment="" id="6476" name="Hoehbeck Tv 1358">
-			<Location latitude="53.0658" longitude="11.4422"/>
+		<Waypoint altitude="77" comment="" id="6835" name="Wittstock A24YA1">
+			<Location latitude="53.135" longitude="12.4581"/>
 		</Waypoint>
-		<ObservationZone radius="5000" type="Cylinder"/>
+		<ObservationZone radius="20000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="10" comment="Flugplatz" id="566" name="Luechow Rehbeck">
+			<Location latitude="53.0172" longitude="11.1447"/>
+		</Waypoint>
+		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="83" comment="" id="6496" name="Kammermark">
 			<Location latitude="53.1953" longitude="12.1642"/>
 		</Waypoint>
-		<ObservationZone radius="4000" type="Cylinder"/>
+		<ObservationZone radius="1000" type="Cylinder"/>
 	</Point>
 </Task>
