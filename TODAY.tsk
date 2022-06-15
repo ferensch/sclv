@@ -27,6 +27,6 @@
 		<Waypoint altitude="83" comment="" id="6496" name="Kammermark">
 			<Location latitude="53.1953" longitude="12.1642"/>
 		</Waypoint>
-		<ObservationZone radius="1000" type="Cylinder"/>
+		<ObservationZone radius="4000" type="Cylinder"/>
 	</Point>
 </Task>
