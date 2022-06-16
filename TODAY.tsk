@@ -6,20 +6,14 @@
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="42" comment="" id="6750" name="Stechow Ferches">
-			<Location latitude="52.6508" longitude="12.4881"/>
+		<Waypoint altitude="33" comment="Segelflug" id="777" name="Salzwedel">
+			<Location latitude="52.8281" longitude="11.3164"/>
 		</Waypoint>
-		<ObservationZone radius="20000" type="Cylinder"/>
+		<ObservationZone radius="30000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="77" comment="" id="6835" name="Wittstock A24YA1">
-			<Location latitude="53.135" longitude="12.4581"/>
-		</Waypoint>
-		<ObservationZone radius="20000" type="Cylinder"/>
-	</Point>
-	<Point type="Area">
-		<Waypoint altitude="10" comment="Flugplatz" id="566" name="Luechow Rehbeck">
-			<Location latitude="53.0172" longitude="11.1447"/>
+		<Waypoint altitude="64" comment="" id="6560" name="Luebz Brauerei">
+			<Location latitude="53.4608" longitude="12.0203"/>
 		</Waypoint>
 		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
