@@ -1,4 +1,4 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="1" aat_min_time="14400" type="AAT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="1" aat_min_time="10800" type="AAT">
 	<Point type="Start">
 		<Waypoint altitude="83" comment="" id="6496" name="Kammermark">
 			<Location latitude="53.1953" longitude="12.1642"/>
@@ -6,14 +6,20 @@
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="33" comment="Segelflug" id="777" name="Salzwedel">
-			<Location latitude="52.8281" longitude="11.3164"/>
+		<Waypoint altitude="43" comment="" id="6624" name="Neuruppin">
+			<Location latitude="52.9428" longitude="12.7795"/>
 		</Waypoint>
-		<ObservationZone radius="30000" type="Cylinder"/>
+		<ObservationZone radius="10000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="64" comment="" id="6560" name="Luebz Brauerei">
-			<Location latitude="53.4608" longitude="12.0203"/>
+		<Waypoint altitude="79" comment="Segelflug" id="957" name="Wittstock Berlinchen">
+			<Location latitude="53.2258" longitude="12.5678"/>
+		</Waypoint>
+		<ObservationZone radius="10000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="44" comment="" id="6465" name="Havelberg Dom">
+			<Location latitude="52.8267" longitude="12.0783"/>
 		</Waypoint>
 		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
