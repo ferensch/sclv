@@ -3,7 +3,7 @@
 		<Waypoint altitude="83" comment="" id="6496" name="Kammermark">
 			<Location latitude="53.1953" longitude="12.1642"/>
 		</Waypoint>
-		<ObservationZone length="1000" type="Line"/>
+		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Turn">
 		<Waypoint altitude="70" comment="BAHNHOF" id="4374" name="Neustrelitz Bf S">
