@@ -9,13 +9,13 @@
 		<Waypoint altitude="70" comment="BAHNHOF" id="4374" name="Neustrelitz Bf S">
 			<Location latitude="53.3597" longitude="13.0747"/>
 		</Waypoint>
-		<ObservationZone type="FAISector"/>
+		<ObservationZone type="Keyhole"/>
 	</Point>
 	<Point type="Turn">
 		<Waypoint altitude="15" comment="" id="6445" name="Guestrow">
 			<Location latitude="53.8056" longitude="12.23"/>
 		</Waypoint>
-		<ObservationZone type="FAISector"/>
+		<ObservationZone type="Keyhole"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="83" comment="" id="6496" name="Kammermark">
